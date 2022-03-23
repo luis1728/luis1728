@@ -4,7 +4,7 @@ public class HolaMundo {
 
     public static void main(String args[]) {
 
-        var numero = 3;
+        var numero = 2;
         var numeroTexto = "numero desconocido";
 
         switch (numero) {
